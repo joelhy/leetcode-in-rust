@@ -3,6 +3,7 @@ mod n0007_reverse_integer;
 mod n0009_palindrome_number;
 mod n0013_roman_to_integer;
 mod n0014_longest_common_prefix;
+mod n0020_valid_parentheses;
 
 fn main() {
     println!("Hello, world!");
