@@ -4,6 +4,7 @@ mod n0009_palindrome_number;
 mod n0013_roman_to_integer;
 mod n0014_longest_common_prefix;
 mod n0020_valid_parentheses;
+mod n0021_merge_two_sorted_lists;
 
 fn main() {
     println!("Hello, world!");
