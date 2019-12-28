@@ -6,6 +6,7 @@ mod n0014_longest_common_prefix;
 mod n0020_valid_parentheses;
 mod n0021_merge_two_sorted_lists;
 mod n0026_remove_duplicates_from_sorted_array;
+mod n0027_remove_element;
 
 fn main() {
     println!("Hello, world!");
