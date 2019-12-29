@@ -13,6 +13,7 @@ mod n0038_count_and_say;
 mod n0053_maximum_subarray;
 mod n0058_length_of_last_word;
 mod n0066_plus_one;
+mod n0067_add_binary;
 
 fn main() {
     println!("Hello, world!");
