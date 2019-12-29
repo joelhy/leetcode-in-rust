@@ -9,6 +9,7 @@ mod n0026_remove_duplicates_from_sorted_array;
 mod n0027_remove_element;
 mod n0028_implement_strstr;
 mod n0035_search_insert_position;
+mod n0038_count_and_say;
 
 fn main() {
     println!("Hello, world!");
