@@ -10,6 +10,7 @@ mod n0027_remove_element;
 mod n0028_implement_strstr;
 mod n0035_search_insert_position;
 mod n0038_count_and_say;
+mod n0053_maximum_subarray;
 
 fn main() {
     println!("Hello, world!");
