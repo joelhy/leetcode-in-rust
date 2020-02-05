@@ -16,6 +16,7 @@ mod n0066_plus_one;
 mod n0067_add_binary;
 mod n0069_sqrtx;
 mod n0070_climbing_stairs;
+mod n0083_remove_duplicates_from_sorted_list;
 
 fn main() {
     println!("Hello, world!");
