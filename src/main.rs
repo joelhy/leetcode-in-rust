@@ -22,6 +22,7 @@ mod n0024_swap_nodes_in_pairs;
 mod n0026_remove_duplicates_from_sorted_array;
 mod n0027_remove_element;
 mod n0028_implement_strstr;
+mod n0029_divide_two_integers;
 mod n0035_search_insert_position;
 mod n0038_count_and_say;
 mod n0053_maximum_subarray;
