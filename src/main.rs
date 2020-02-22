@@ -29,6 +29,7 @@ mod n0034_find_first_and_last_position_of_element_in_sorted_array;
 mod n0035_search_insert_position;
 mod n0036_valid_sudoku;
 mod n0038_count_and_say;
+mod n0039_combination_sum;
 mod n0053_maximum_subarray;
 mod n0058_length_of_last_word;
 mod n0066_plus_one;
