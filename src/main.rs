@@ -33,6 +33,7 @@ mod n0039_combination_sum;
 mod n0040_combination_sum_ii;
 mod n0043_multiply_strings;
 mod n0046_permutations;
+mod n0047_permutations_ii;
 mod n0053_maximum_subarray;
 mod n0058_length_of_last_word;
 mod n0066_plus_one;
