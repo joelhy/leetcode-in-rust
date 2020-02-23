@@ -36,6 +36,7 @@ mod n0046_permutations;
 mod n0047_permutations_ii;
 mod n0048_rotate_image;
 mod n0049_group_anagrams;
+mod n0050_powx_n;
 mod n0053_maximum_subarray;
 mod n0058_length_of_last_word;
 mod n0066_plus_one;
