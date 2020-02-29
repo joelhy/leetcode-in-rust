@@ -38,6 +38,7 @@ mod n0048_rotate_image;
 mod n0049_group_anagrams;
 mod n0050_powx_n;
 mod n0053_maximum_subarray;
+mod n0054_spiral_matrix;
 mod n0058_length_of_last_word;
 mod n0066_plus_one;
 mod n0067_add_binary;
