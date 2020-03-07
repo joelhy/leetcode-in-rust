@@ -47,6 +47,7 @@ mod n0070_climbing_stairs;
 mod n0083_remove_duplicates_from_sorted_list;
 mod n0088_merge_sorted_array;
 mod n0100_same_tree;
+mod list;
 
 fn main() {
     println!("Hello, world!");
