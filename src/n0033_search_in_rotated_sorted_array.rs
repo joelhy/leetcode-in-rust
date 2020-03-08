@@ -36,7 +36,7 @@ impl Solution {
             }
         }
 
-        return -1;
+        -1
     }
 }
 

@@ -12,7 +12,7 @@ impl Solution {
         result
     }
 
-    fn solve(seq: &Vec<i32>, target: i32, result: &mut Vec<Vec<i32>>, answer: Vec<i32>, start: usize) {
+    fn solve(seq: &[i32], target: i32, result: &mut Vec<Vec<i32>>, answer: Vec<i32>, start: usize) {
         if target < 0 {
             return;
         }

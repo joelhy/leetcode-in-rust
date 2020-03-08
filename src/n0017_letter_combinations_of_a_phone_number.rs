@@ -2,7 +2,7 @@ struct Solution {}
 
 impl Solution {
     pub fn letter_combinations(digits: String) -> Vec<String> {
-        if digits.len() < 1 {
+        if digits.is_empty() {
             return vec![];
         }
 

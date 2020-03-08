@@ -3,7 +3,7 @@ struct Solution {}
 impl Solution {
     pub fn spiral_order(matrix: Vec<Vec<i32>>) -> Vec<i32> {
         let mut result = Vec::new();
-        if matrix.len() < 1 {
+        if matrix.is_empty() {
             return result;
         }
 

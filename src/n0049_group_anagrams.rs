@@ -9,7 +9,7 @@ impl Solution {
             for byte in s.bytes() {
                 bytes[(byte - b'a') as usize] += 1u8;
             }
-            map.entry(bytes).or_insert(Vec::new()).push(s);
+            map.entry(bytes).or_insert_with(Vec::new).push(s);
         }
         map.into_iter().map(|(_,v)| v ).collect()
     }
